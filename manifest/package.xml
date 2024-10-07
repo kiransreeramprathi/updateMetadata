@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>CustomLabelBatchUpdater</members>
+		<members>MetadataService</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>masked_custom_labels</members>
+		<name>StaticResource</name>
+	</types>
+	<version>60.0</version>
+</Package>
